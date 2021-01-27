@@ -1,0 +1,45 @@
+body{
+     font-family:'MuseoModerno', cursive;
+     background-color: black;  
+}
+.box-father{
+   background-color: white;
+    height: 350px;
+    width: 570px;
+    position: relative; 
+    margin-left: 500px; 
+    margin-top: 250px; 
+} 
+.title-img{ 
+     padding-top:10px;
+     padding-left: 10px;
+     float: left;
+     width: 550px;
+}
+.primercuadro img{
+    float: right;
+    overflow: auto;
+}
+.boximg{
+    margin-top: -90px;
+    float: right;
+}
+.parrafos {
+    margin-right: 200px;
+    width: 250px;
+    float: left;
+    padding-left: 10px;
+}
+.botton{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    float:none;
+	text-align:center;
+}
+.input-1{
+    width: 250px;
+    float: right;
+    margin-top: -170px;
+}
+    
